@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-website-trvl/static/css/main.9040b13f.chunk.css",
-    "main.js": "/react-website-trvl/static/js/main.fd6774b6.chunk.js",
-    "main.js.map": "/react-website-trvl/static/js/main.fd6774b6.chunk.js.map",
+    "main.css": "/react-website-trvl/static/css/main.8afcfa4d.chunk.css",
+    "main.js": "/react-website-trvl/static/js/main.fccfa338.chunk.js",
+    "main.js.map": "/react-website-trvl/static/js/main.fccfa338.chunk.js.map",
     "runtime-main.js": "/react-website-trvl/static/js/runtime-main.50832c45.js",
     "runtime-main.js.map": "/react-website-trvl/static/js/runtime-main.50832c45.js.map",
-    "static/js/2.2b025800.chunk.js": "/react-website-trvl/static/js/2.2b025800.chunk.js",
-    "static/js/2.2b025800.chunk.js.map": "/react-website-trvl/static/js/2.2b025800.chunk.js.map",
+    "static/js/2.520a914d.chunk.js": "/react-website-trvl/static/js/2.520a914d.chunk.js",
+    "static/js/2.520a914d.chunk.js.map": "/react-website-trvl/static/js/2.520a914d.chunk.js.map",
     "index.html": "/react-website-trvl/index.html",
-    "static/css/main.9040b13f.chunk.css.map": "/react-website-trvl/static/css/main.9040b13f.chunk.css.map",
-    "static/js/2.2b025800.chunk.js.LICENSE.txt": "/react-website-trvl/static/js/2.2b025800.chunk.js.LICENSE.txt",
+    "static/css/main.8afcfa4d.chunk.css.map": "/react-website-trvl/static/css/main.8afcfa4d.chunk.css.map",
+    "static/js/2.520a914d.chunk.js.LICENSE.txt": "/react-website-trvl/static/js/2.520a914d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-website-trvl/static/media/img-8.1888676e.jpg",
     "static/media/img-3.40f8ce95.jpg": "/react-website-trvl/static/media/img-3.40f8ce95.jpg",
     "static/media/img-4.3fb7239e.jpg": "/react-website-trvl/static/media/img-4.3fb7239e.jpg",
     "static/media/img-9.96e08d18.jpg": "/react-website-trvl/static/media/img-9.96e08d18.jpg",
-    "static/media/video-2.39e6c79b.mp4": "/react-website-trvl/static/media/video-2.39e6c79b.mp4"
+    "static/media/video-1.59e75226.mp4": "/react-website-trvl/static/media/video-1.59e75226.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.50832c45.js",
-    "static/js/2.2b025800.chunk.js",
-    "static/css/main.9040b13f.chunk.css",
-    "static/js/main.fd6774b6.chunk.js"
+    "static/js/2.520a914d.chunk.js",
+    "static/css/main.8afcfa4d.chunk.css",
+    "static/js/main.fccfa338.chunk.js"
   ]
 }
