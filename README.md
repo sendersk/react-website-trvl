@@ -6,6 +6,14 @@ https://sendersk.github.io/react-website-trvl/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description 
+
+This is a simple website created for educational purposes. The website contains of four subpages Home, Products, Services and Sign Up. This project is fully responsive.
+
+## Technologies used
+
+- 
+
 ## Available Scripts
 
 In the project directory, you can run:
