@@ -1,5 +1,14 @@
 # REACT WEBSITE TRVL
 
+## Table of contents
+- [DEMO](#demo)
+- [Description](#description)
+- [Technologies and methodologies used](#technologies-and-methodologies-used)
+- [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+
 ## DEMO
 
 https://sendersk.github.io/react-website-trvl/
