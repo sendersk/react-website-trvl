@@ -8,11 +8,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description 
 
-This is a simple website created for educational purposes. The website contains of four subpages Home, Products, Services and Sign Up. This project is fully responsive.
+This is a simple website created for educational purposes. The website contains of four subpages Home, Products, Services and Sign Up. This project is fully responsive. You can move freely between subpages using navigation. If you want to go back to the Home Page, just click the **HOME** button in the navigation or the logo in the upper left corner.
 
-## Technologies used
+## Technologies and methodologies used
 
-- 
+- React 
+- create-react-app
+- React Router
+- HTML
+- CSS
+- JavaScript ES6+
+- Hooks
+- JSX
 
 ## Available Scripts
 
