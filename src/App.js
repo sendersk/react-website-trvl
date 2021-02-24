@@ -5,7 +5,7 @@ import "./App.css";
 import Home from "./components/pages/Home/Home";
 import Services from "./components/pages/Services/Services";
 import Products from "./components/pages/Products/Products";
-import SignUp from "./components/pages/SignUp";
+import SignUp from "./components/pages/SignUp/SignUp";
 
 function App() {
   return (
